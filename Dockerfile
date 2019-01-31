@@ -1,4 +1,4 @@
-FROM alpine:3.9@sha256:cee93f7bcd60e9a8ae498f2bfb394fdf8c2dc0b2087babc51a94788b1809725c
+FROM alpine:3.9@sha256:b3dbf31b77fd99d9c08f780ce6f5282aba076d70a513a8be859d8d3a4d0c92b8
 
 RUN apk add --no-cache \
     python \
